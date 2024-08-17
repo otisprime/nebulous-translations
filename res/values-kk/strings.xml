@@ -1,116 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Oyuncular"</string>
-    <string name="Control_">"Kontrol:"</string>
-    <string name="CLOSE">"KAPAT"</string>
-    <string name="Stick_Size_">"Çubuk Boyutu:"</string>
-    <string name="Stick_Margin_">"Çubuk Konumu:"</string>
-    <string name="Button_Size_">"Buton Boyutu:"</string>
-    <string name="Button_Margin_">"Buton Konumları:"</string>
-    <string name="Buttons_">"Butonlar:"</string>
-    <string name="DEFAULTS">"VARSAYILANLAR"</string>
-    <string name="WEEKLY">"HAFTALIK"</string>
-    <string name="DAILY">"GÜNLÜK"</string>
-    <string name="Server_">"Sunucu:"</string>
-    <string name="Game_Mode_">"Oyun Modu:"</string>
-    <string name="Show_Names">"İsimleri Göster"</string>
-    <string name="Show_Avatars">"Avatarları Göster"</string>
-    <string name="PLAY">"OYNA"</string>
-    <string name="OPTIONS">"AYARLAR"</string>
+    <string name="Players">"Ойыншылар"</string>
+    <string name="Control_">"Басқару:"</string>
+    <string name="CLOSE">"ЖАБУ"</string>
+    <string name="Stick_Size_">"Джойстиктің Өлшемі:"</string>
+    <string name="Stick_Margin_">"Джойстиктің Үзілуі:"</string>
+    <string name="Button_Size_">"Түймелердің Өлшемі:"</string>
+    <string name="Button_Margin_">"Түймелердің Үзілуі:"</string>
+    <string name="Buttons_">"Түймелер:"</string>
+    <string name="DEFAULTS">"ӘДЕПКІ КҮЙГЕ ҚАЙТАРУ"</string>
+    <string name="WEEKLY">"АПТАЛЫҚ"</string>
+    <string name="DAILY">"КҮНДЕЛІКТІ"</string>
+    <string name="Server_">"Сервер:"</string>
+    <string name="Game_Mode_">"Ойын Моды:"</string>
+    <string name="Show_Names">"Аты жөніңді Көрсету"</string>
+    <string name="Show_Avatars">"Аватарларды Көрсету"</string>
+    <string name="PLAY">"ОЙНАУ"</string>
+    <string name="OPTIONS">"БАПТАУЛАР"</string>
 
-    <string name="Avatar_">"Avatar:"</string>
-    <string name="Name_">"İsim:"</string>
+    <string name="Avatar_">"Аватар:"</string>
+    <string name="Name_">"Аты:"</string>
 
-    <string name="Loading___">"Yükleniyor…"</string>
-    <string name="Connecting___">"Bağlanılıyor…"</string>
+    <string name="Loading___">"Жүктеу…"</string>
+    <string name="Connecting___">"Қосылу…"</string>
 
-    <string name="Are_You_Sure_">"Emin misiniz?"</string>
-    <string name="Yes">"Evet"</string>
-    <string name="No">"Hayır"</string>
-    <string name="WAIT">"Bekleyiniz…"</string>
-    <string name="Must_Specify_Name_">"Bir isim girmelisiniz."</string>
+    <string name="Are_You_Sure_">"Сіз сенімдісізбе?"</string>
+    <string name="Yes">"Иә"</string>
+    <string name="No">"Жоқ"</string>
+    <string name="WAIT">"Күтіңіз…"</string>
+    <string name="Must_Specify_Name_">"Аты жөнді көрсету қажет."</string>
 
-    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Uygulamanın içerik derecelendirmesi grupları bulurken değişebilir."</string>
+    <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Топтарды іздеу кезінде қолданба мазмұнының жас рейтингі өзгеруі мүмкін."</string>
 
-    <string name="_Rank_">" Sıralama "</string>
-    <string name="_Alias_">" Takma İsim "</string>
-    <string name="_Score_">" Puan "</string>
-    <string name="Score__">"Puan: "</string>
-    <string name="Recombine_">"Birleşme: "</string>
-    <string name="WINNER_">"KAZANAN:"</string>
-    <string name="IDLE">"Hareketsizsiniz:"</string>
-    <string name="Name_Invalid_">"Geçersiz isim."</string>
-    <string name="Name_Taken_">"İsim alınmış."</string>
-    <string name="CONNECTED">"BAĞLANDI"</string>
-    <string name="JOINING___">"BAĞLANIYOR"</string>
-    <string name="PLAYING">"OYNANIYOR"</string>
-    <string name="MULTIPLAYER">"ÇOK OYUNCULU"</string>
+    <string name="_Rank_">" Дәреже "</string>
+    <string name="_Alias_">" Лақап Аты "</string>
+    <string name="_Score_">" Есеп "</string>
+    <string name="Score__">"Есеп: "</string>
+    <string name="Recombine_">"Қосылу: "</string>
+    <string name="WINNER_">"ЖЕНІМПАЗ:"</string>
+    <string name="IDLE">"Желісіз:"</string>
+    <string name="Name_Invalid_">"Аты жарамсыз."</string>
+    <string name="Name_Taken_">"Аты бұрыннан алынған."</string>
+    <string name="CONNECTED">"Қосылу"</string>
+    <string name="JOINING___">"ҚОСЫЛУ"</string>
+    <string name="PLAYING">"ОЙНАУ"</string>
+    <string name="MULTIPLAYER">"КӨП ОЙЫНШЫ"</string>
 
-    <string name="JOIN">"KATIL"</string>
-
-
-    <string name="Lobby_Name">"Lobi Adı"</string>
-    <string name="Not_found_">"Bulunamadı."</string>
-
-    <string name="Hidden">"Gizli"</string>
+    <string name="JOIN">"ҚОСЫЛУ"</string>
 
 
-    <string name="SERVER">"SUNUCU"</string>
-    <string name="Joining_game_in_">"Oyuna katılıyor "</string>
-    <string name="Game_Full">"Oyun dolu."</string>
-    <string name="US_East">"Doğu ABD"</string>
-    <string name="US_West">"Batı ABD"</string>
-    <string name="Europe">"Avrupa"</string>
-    <string name="South_America">"Güney Amerika"</string>
+    <string name="Lobby_Name">"Лобби атауы"</string>
+    <string name="Not_found_">"Табылмады."</string>
+
+    <string name="Hidden">"Жасырын"</string>
 
 
-    <string name="SINGLE_PLAYER">"TEK KİŞİLİK"</string>
-    <string name="Background_">"Arka plan:"</string>
-    <string name="Difficulty_">"Zorluk:"</string>
-    <string name="Delay_Disconnect">"Bağlantının Kesilmesini Geciktir"</string>
-
-    <string name="Max_Players">"Maksimum Oyuncu"</string>
-    <string name="Min_Players">"Minimum Oyuncu"</string>
-
-    <string name="OK">"TAMAM"</string>
-    <string name="CANCEL">"İPTAL"</string>
-    <string name="Chat_Name">"Sohbet Adı"</string>
-    <string name="Max_People">"Maksimum Kişi"</string>
-    <string name="START">"BAŞLA"</string>
-    <string name="CREATE">"OLUŞTUR"</string>
-    <string name="CUSTOM_GAMES">"ÖZEL OYUNLAR"</string>
-    <string name="CHAT">"SOHBET"</string>
-    <string name="CUSTOM_SETUP">"ÖZEL OYUN KURULUMU"</string>
-    <string name="CHAT_SETUP">"SOHBET ODASI KURULUMU"</string>
+    <string name="SERVER">"Сервер"</string>
+    <string name="Joining_game_in_">"Ойынға қосылу арқылы "</string>
+    <string name="Game_Full">"Сервер толық."</string>
+    <string name="US_East">"АҚШ Шығыс"</string>
+    <string name="US_West">"АҚШ Батыс"</string>
+    <string name="Europe">"Еуропа"</string>
+    <string name="South_America">"Оңтүстік Америка"</string>
 
 
-    <string name="ACCOUNT">"HESAP"</string>
-    <string name="Red_Team">"Kırmızı Takım"</string>
-    <string name="Green_Team">"Yeşil Takım"</string>
-    <string name="Blue_Team">"Mavi Takım"</string>
-    <string name="Yellow_Team">"Sarı Takım"</string>
-    <string name="Signed_in_as_">"Giriş yapıldı:"</string>
-    <string name="Not_signed_in_">"Giriş yapılamadı!"</string>
-    <string name="SET_NAME">"İSMİ DÜZENLE"</string>
-    <string name="SIGN_OUT">"OTURUMU KAPAT"</string>
-    <string name="ACHIEVEMENTS">"KAZANIMLAR"</string>
-    <string name="STATISTICS">"İSTATİSTİKLER"</string>
-    <string name="XP_">"XP:"</string>
+    <string name="SINGLE_PLAYER">"ЖЕКЕ ОЙЫН"</string>
+    <string name="Background_">"Артқы план :"</string>
+    <string name="Difficulty_">"Күрделілігі:"</string>
+    <string name="Delay_Disconnect">"Кешігуге байланысты ажырату "</string>
 
-    <string name="Information">"Bilgi"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Bu avatarı kullanmak için ilgili kazanımı edinmelisiniz."</string>
-    <string name="To_use_this_skin_you_must_reach_level">"Bu avatarı kullanmak için erişmeniz gereken seviye"</string>
-    <string name="SIGN_IN">"GİRİŞ YAP"</string>
+    <string name="Max_Players">"Максималды Ойыншылар"</string>
+    <string name="Min_Players">"Ең Аз Ойыншылар"</string>
 
-    <string name="Single_Player_Stats">"Tek Kişilik Oyun İstatistikleri"</string>
-
-    <string name="Level">"Seviye"</string>
-    <string name="PAUSED">"DURAKLATILDI"</string>
+    <string name="OK">"ЖАРАЙДЫ"</string>
+    <string name="CANCEL">"БАС ТАРТУ"</string>
+    <string name="Chat_Name">"Чат Атауы"</string>
+    <string name="Max_People">"Максималды Ойыншылар "</string>
+    <string name="START">"БАСТАУ"</string>
+    <string name="CREATE">"ЖАСАУ"</string>
+    <string name="CUSTOM_GAMES">"ТАНДАУ ОЙЫНДАР"</string>
+    <string name="CHAT">"ЧАТ"</string>
+    <string name="CUSTOM_SETUP">"БАПТАУЛАР"</string>
+    <string name="CHAT_SETUP">"ЧАТ БАПТАУЛАРЫ"</string>
 
 
-    <string name="FRIENDS">"ARKADAŞLAR"</string>
-    <string name="Warning">"Uyarı"</string>
-    <string name="SIGNING_IN">"GİRİŞ YAPILIYOR…"</string>
+    <string name="ACCOUNT">"АККАУНТ"</string>
+    <string name="Red_Team">"Қызыл Команда"</string>
+    <string name="Green_Team">"Жасыл Команда"</string>
+    <string name="Blue_Team">"Көк Команда"</string>
+    <string name="Yellow_Team">"Сары Команда"</string>
+    <string name="Signed_in_as_">"Жүйеге кірді:"</string>
+    <string name="Not_signed_in_">"Жүйеге кіруге мүмкін болмады!"</string>
+    <string name="SET_NAME">"АТТЫ ӨЗГЕРТУ"</string>
+    <string name="SIGN_OUT">"ШЫҒУ"</string>
+    <string name="ACHIEVEMENTS">"ЖЕНІСТІКТЕР"</string>
+    <string name="STATISTICS">"СТАТИСТИКА"</string>
+    <string name="XP_">"Тәжірбие:"</string>
+
+    <string name="Information">"Ақпарат"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Бұл аватарды пайдалану үшін жетістік алу қажет."</string>
+    <string name="To_use_this_skin_you_must_reach_level">"Бұл аватарды пайдалану үшін деңгейді көтеру қажет"</string>
+    <string name="SIGN_IN">"КІРУ"</string>
+
+    <string name="Single_Player_Stats">"Статистика жеке ойыншы"</string>
+
+    <string name="Level">"Деңгей"</string>
+    <string name="PAUSED">"ТОҚТАТУ"</string>
+
+
+    <string name="FRIENDS">"ДОСТАР"</string>
+    <string name="Warning">"Ескерту"</string>
+    <string name="SIGNING_IN">"КІРУ…"</string>
     <string name="New_Friend_Request">"Yeni Arkadaşlık İsteği!"</string>
     <string name="REQUEST_FRIEND">"ARKADAŞLIK İSTEĞİ"</string>
     <string name="Private">"Özel"</string>
