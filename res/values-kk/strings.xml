@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="Players">"Oyuncular"</string>
+    <string name="Players">"Ойыншылар"</string>
     <string name="Control_">"Kontrol:"</string>
     <string name="CLOSE">"KAPAT"</string>
     <string name="Stick_Size_">"Çubuk Boyutu:"</string>
